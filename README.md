@@ -2,6 +2,8 @@
 
 IEC 60870-5-104 Parser - Network access for IEC 60870-5-101 using standard transport profiles.
 
+> :exclamation: Note: This parser is **outdated**. You find a maintained alternative under [cert.lv](https://github.com/cert-lv/spicy-iec104/). 
+
 ## Overview
 
 IEC60870_5_104 is a Zeek plugin (written in [Spicy](https://docs.zeek.org/projects/spicy/en/latest/)) for parsing and logging fields used by the IEC 60870-5-104 protocol as presented in the standard IEC 60870-5-104:2006 and IEC 60870-5-101:2003, defining a transmission format for sending and receiving SCADA data in power systems.
